@@ -1,0 +1,9 @@
+C:\Users\zehra\projects\repos\AirlineCompanyWebApp\AirlineCompanyWebApp\obj\Debug\net5.0\AirlineCompanyWebApp.csproj.AssemblyReference.cache
+C:\Users\zehra\projects\repos\AirlineCompanyWebApp\AirlineCompanyWebApp\obj\Debug\net5.0\AirlineCompanyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zehra\projects\repos\AirlineCompanyWebApp\AirlineCompanyWebApp\obj\Debug\net5.0\AirlineCompanyWebApp.AssemblyInfoInputs.cache
+C:\Users\zehra\projects\repos\AirlineCompanyWebApp\AirlineCompanyWebApp\obj\Debug\net5.0\AirlineCompanyWebApp.AssemblyInfo.cs
+C:\Users\zehra\projects\repos\AirlineCompanyWebApp\AirlineCompanyWebApp\obj\Debug\net5.0\AirlineCompanyWebApp.csproj.CoreCompileInputs.cache
+C:\Users\zehra\projects\repos\AirlineCompanyWebApp\AirlineCompanyWebApp\obj\Debug\net5.0\AirlineCompanyWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zehra\projects\repos\AirlineCompanyWebApp\AirlineCompanyWebApp\obj\Debug\net5.0\AirlineCompanyWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zehra\projects\repos\AirlineCompanyWebApp\AirlineCompanyWebApp\obj\Debug\net5.0\AirlineCompanyWebApp.RazorAssemblyInfo.cache
+C:\Users\zehra\projects\repos\AirlineCompanyWebApp\AirlineCompanyWebApp\obj\Debug\net5.0\AirlineCompanyWebApp.RazorAssemblyInfo.cs
