@@ -6,15 +6,13 @@ using KeyAttribute = System.ComponentModel.DataAnnotations.KeyAttribute;
 namespace AirlineCompanyWebApp.Models.Entities
 {
     [Table("Bookings")]
-    public class Booking
+    public class Booking:BaseEntity
     {
-        [Key]
-        public int BookingId { get; set; }
-        public int Id { get; set; }
+        public int CustomerId { get; set; }
         public int FlightId { get; set; }
         public DateTime BookingDate { get; set; }
         public string BookingStatus { get; set; }
-        [ForeignKey("Id")]
+        [ForeignKey("CustomerId")]
         public virtual Customer Customer { get; set; }
         [ForeignKey("FlightId")]
         public virtual Flight Flight { get; set; }

@@ -1,5 +1,4 @@
-﻿using Castle.Components.DictionaryAdapter;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using KeyAttribute = System.ComponentModel.DataAnnotations.KeyAttribute;
@@ -7,10 +6,8 @@ using KeyAttribute = System.ComponentModel.DataAnnotations.KeyAttribute;
 namespace AirlineCompanyWebApp.Models.Entities
 {
     [Table("Flights")]
-    public class Flight
+    public class Flight:BaseEntity
     {
-        [Key]
-        public int FlightId { get; set; }
         public int AirlineId { get; set; }
         public string FlightNumber { get; set; }
         public string DepatureAirport { get; set; }

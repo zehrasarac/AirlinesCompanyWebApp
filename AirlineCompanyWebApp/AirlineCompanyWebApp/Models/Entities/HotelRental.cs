@@ -9,12 +9,12 @@ namespace AirlineCompanyWebApp.Models.Entities
     {
         [Key]
         public int HotelRentalId { get; set; }
-        public int Id { get; set; }
+        public int CustomerId { get; set; }
         public int HotelId { get; set; }
         public DateTime CheckInDate { get; set; }
         public DateTime CheckOutDate { get; set;}
         public decimal RentalPrice { get; set; }
-        [ForeignKey("Id")]
+        [ForeignKey("CustomerId")]
         public virtual Customer Customer { get; set; }
         [ForeignKey("HotelId")]
         public virtual Hotel Hotel { get; set; }
