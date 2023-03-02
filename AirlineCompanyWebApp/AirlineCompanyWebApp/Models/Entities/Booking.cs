@@ -11,7 +11,6 @@ namespace AirlineCompanyWebApp.Models.Entities
         public int CustomerId { get; set; }
         public int FlightId { get; set; }
         public DateTime BookingDate { get; set; }
-        public string BookingStatus { get; set; }
         [ForeignKey("CustomerId")]
         public virtual Customer Customer { get; set; }
         [ForeignKey("FlightId")]

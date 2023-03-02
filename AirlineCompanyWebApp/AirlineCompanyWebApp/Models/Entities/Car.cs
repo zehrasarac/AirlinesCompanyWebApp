@@ -14,7 +14,6 @@ namespace AirlineCompanyWebApp.Models.Entities
         public string CarBrand { get; set; }
         public string CarModel { get; set; }
         public decimal CarPricePerDay { get; set; }
-        public string CarImage { get; set; }
         public virtual ICollection<CarRental> CarRentals { get; set; }
     }
 }

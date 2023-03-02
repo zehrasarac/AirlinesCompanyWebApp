@@ -12,7 +12,7 @@ namespace AirlineCompanyWebApp.Models.Entities
         public int CustomerId { get; set; }
         public int HotelId { get; set; }
         public DateTime CheckInDate { get; set; }
-        public DateTime CheckOutDate { get; set;}
+        public DateTime? CheckOutDate { get; set;}
         public decimal RentalPrice { get; set; }
         [ForeignKey("CustomerId")]
         public virtual Customer Customer { get; set; }
