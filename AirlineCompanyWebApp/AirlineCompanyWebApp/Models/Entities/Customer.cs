@@ -7,7 +7,7 @@ using System.Collections.Generic;
 
 namespace AirlineCompanyWebApp.Models.Entities
 {
-    [Table("Books")]
+    [Table("Customer")]
     public class Customer: BaseEntity
     {
 

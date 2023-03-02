@@ -184,7 +184,7 @@ namespace AirlineCompanyWebApp.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Books");
+                    b.ToTable("Customer");
                 });
 
             modelBuilder.Entity("AirlineCompanyWebApp.Models.Entities.Flight", b =>

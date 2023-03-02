@@ -11,7 +11,6 @@ namespace AirlineCompanyWebApp.Models.Entities
         public string HotelName { get; set; }
         public string HotelAddress { get; set; }
         public decimal HotelPricePerNight { get; set; }
-        public string HotelImage { get; set; }
         public virtual ICollection<HotelRental> HotelRentals { get; set; }
     }
 }

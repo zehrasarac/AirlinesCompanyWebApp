@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AirlineCompanyWebApp.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    [Migration("20230302155433_InitialCreate")]
+    [Migration("20230302160447_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -186,7 +186,7 @@ namespace AirlineCompanyWebApp.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Books");
+                    b.ToTable("Customer");
                 });
 
             modelBuilder.Entity("AirlineCompanyWebApp.Models.Entities.Flight", b =>
