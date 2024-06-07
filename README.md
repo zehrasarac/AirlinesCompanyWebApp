@@ -1,0 +1,7 @@
+![Screenshot 2024-06-07 141637](https://github.com/zehrasarac/AirlinesCompanyWebApp/assets/60752226/035b50cc-0985-413e-b9e7-c1d43e04aa44)
+![Screenshot 2024-06-07 141657](https://github.com/zehrasarac/AirlinesCompanyWebApp/assets/60752226/4293336f-e777-4495-ad7b-6ea9726b4f22)
+![Screenshot 2024-06-07 141711](https://github.com/zehrasarac/AirlinesCompanyWebApp/assets/60752226/4d24b20b-a902-4998-a2e8-42b5ffca0712)
+![Screenshot 2024-06-07 141724](https://github.com/zehrasarac/AirlinesCompanyWebApp/assets/60752226/481a6fe8-52d7-4c38-82d2-ab7cab90bf55)
+![Screenshot 2024-06-07 141736](https://github.com/zehrasarac/AirlinesCompanyWebApp/assets/60752226/dbefae50-6666-403e-9531-85184f9d731b)
+![Screenshot 2024-06-07 141820](https://github.com/zehrasarac/AirlinesCompanyWebApp/assets/60752226/46cf2077-726a-4878-bc96-083809b73f77)
+![Screenshot 2024-06-07 140910](https://github.com/zehrasarac/AirlinesCompanyWebApp/assets/60752226/94deff6c-aea3-47d6-938c-987d4a10659c)
